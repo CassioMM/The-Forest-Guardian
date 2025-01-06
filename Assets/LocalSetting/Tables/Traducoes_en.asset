@@ -1,0 +1,190 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Traducoes_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1293dfb52000d9a4e9f2e8d3111d0b20, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 83733962752
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11206868787200
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11211025342464
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350573076340736
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350580617699328
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350586288398336
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5439891092463616
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6410050967887872
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6410314265321472
+    m_Localized: "        Members:\r\nC\xE1ssio Marques: Programmer\r\nErik Calixto:
+      Sound designer\r\nGabriel Mendon\xE7a: 3D Artist\r\nPedro Manta: 2D Artist\r\n\r\n       
+      Advisors:\r\nDr. Alexandre Santaella Braga\r\nMe. Claudemir Martins da Silva\r\nDra.
+      Raquel Silva\r\nEsp. Willians Monteiro da Silva"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6452671991963648
+    m_Localized: "I feel that the plants are watching me.\r   The priest spoke of
+      a fruit that gives energy,\r\nborn of a curse. According to the legend, a couple
+      asked the god Tup\xE3 for a child and were blessed with Cau\xEA,\r    a boy
+      who could speak with animals. Jurupari, the god of darkness, envious, killed
+      him in the form of a serpent.\r\nTup\xE3 planted the boy\u2019s eyes, from
+      which the plant was born.\r\nEven so, I fear the forest;\r\nit seems there
+      is something more here.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6452699439489024
+    m_Localized: "Cursed savages and their primitive weapons, defying the will of
+      our great King. \r\nMy wounds aren\u2019t fatal; I will survive, claim the
+      gold from the cave, and buy more weapons to \r\nexterminate them. The King
+      represents the divine, and no \"boy\u2019s body\" or entity can challenge \r\nhim.
+      These savages should surrender the gold to us and avoid their destruction."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6452701473726464
+    m_Localized: "I am hungry and thirsty, my water is running out, and everything
+      in the forest seems poisonous.\r\nI haven\u2019t seen animals for days; perhaps
+      the \"Boy\u2019s Body,\" a boy with inverted feet and fiery hair, is protecting
+      the forest. But what value could this forest have to be protected? The gold
+      is in the mountains; here, there is only game and mushrooms. Yesterday, I mistakenly
+      ate the red ones and had strange nightmares, like being a giant plumber fighting
+      turtles for gold coins. Perhaps this, too, is the work of some mysterious entity."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6458693980708864
+    m_Localized: Press (X)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6737593633792000
+    m_Localized: Under orders from their king, a group of settlers embarked on caravels
+      in search of new lands for colonization. During their journey, they faced fierce
+      storms, but the brave and fearless settlers were undeterred. They spotted a
+      peculiar "island" and immediately set their course toward it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6737595303124992
+    m_Localized: As they approached their goal, they encountered mysterious and dangerous
+      sea creatures guarding the island's coast. After defeating the marine beasts,
+      they moved closer to the island, which revealed a vast forest upon closer inspection.
+      The settlers landed and began their preparations.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6737607013621760
+    m_Localized: Their captain immediately ordered them to set up camp and build
+      a fire, then to scout the forest and return before nightfall. The island was
+      eerily quiet, yet immense. The settlers spent the entire afternoon preparing
+      their shelters. During the night, the captain noticed that some settlers were
+      missing. Determined to find them, he ventured into the forest alone.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6737610100629504
+    m_Localized: "The darkness was overwhelming, and to make matters worse, he realized
+      he was lost\u2014his companion had the compass. With each step, he felt a chilling
+      presence behind him. After wandering for some time, he spotted something burning
+      in the distance. He tried to hide, but he hadn't realized he'd already been
+      seen. When he became aware of this, he started running for his life, desperately
+      searching for his companions. While hiding, he began thinking about the materials
+      he\u2019d need to escape the island, especially after discovering that their
+      caravels had been damaged."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6752738359566336
+    m_Localized: Thank you for playing!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6772058737270784
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6774020857847808
+    m_Localized: After enduring a nightmare, at dawn, the settler spots a wooden
+      cabin ahead. Perhaps this is his salvation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6774022736896000
+    m_Localized: You again??? Where is what I asked for to fix the caravel???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6774722380357632
+    m_Localized: This is what I needed. It took a while, but I got it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6774724959854592
+    m_Localized: A man with a head of fire??? He was the guardian of the forest.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6774727145086976
+    m_Localized: "He protects every corner of the island; it\u2019s possible he attacked
+      your companions."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6774729154158592
+    m_Localized: "I\u2019m very sorry for your companions. Now, let\u2019s move quickly."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6774731003846656
+    m_Localized: I will fix the caravel today, and you will leave this place and
+      never come back.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791170288967680
+    m_Localized: move
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791172310622208
+    m_Localized: Run
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791173652799488
+    m_Localized: Interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791174701375488
+    m_Localized: Shot (Gun)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791175636705280
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791176639143936
+    m_Localized: Inventory
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

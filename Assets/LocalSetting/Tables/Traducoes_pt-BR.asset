@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Traducoes_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 1293dfb52000d9a4e9f2e8d3111d0b20, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 83733962752
+    m_Localized: Iniciar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11206868787200
+    m_Localized: "Cr\xE9ditos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11211025342464
+    m_Localized: Sair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350573076340736
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350580617699328
+    m_Localized: "Op\xE7\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350586288398336
+    m_Localized: Sair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5439891092463616
+    m_Localized: Controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6410050967887872
+    m_Localized: "Cr\xE9ditos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6410314265321472
+    m_Localized: "        Integrantes:\r\nC\xE1ssio Marques: Programador\r\nErik
+      Calixto: Sonoplasta\r\nGabriel Mendon\xE7a: Artista 3D\r\nPedro Manta: Artista
+      2D\r\n\r\n        Orientadores:\r\nDr. Alexandre Santaella Braga\r\nMe. Claudemir
+      Martins da Silva\r\nDra. Raquel Silva\r\nEsp. Willians Monteiro da Silva"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6452671991963648
+    m_Localized: "Sinto que as plantas me observam.\r\nO sacerdote contou sobre uma
+      fruta que d\xE1 energia, \r\nfruto de uma maldi\xE7\xE3o. Diz a lenda que um
+      casal pediu ao deus Tup\xE3 um filho, e tiveram Cau\xEA, \r\num menino que
+      falava com animais. Jurupari o deus da escurid\xE3o, invejoso matou-o na forma
+      de uma serpente. \r\nTup\xE3 plantou os olhos do menino, de onde nasceu a planta.
+      \r\nAinda assim, temo a floresta; \r\nparece haver algo a mais aqui."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6452699439489024
+    m_Localized: "Malditos selvagens e suas armas primitivas, resistem \xE0 vontade
+      do nosso grandioso Rei. Meus ferimentos n\xE3o s\xE3o fatais; sobreviverei,
+      tomarei o ouro da caverna e comprarei mais armas para extermin\xE1-los. O rei
+      representa o divino, e nenhum \"corpo de menino\" ou entidade pode desafi\xE1-lo.
+      Esses selvagens deveriam nos entregar o ouro para evitar sua destrui\xE7\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6452701473726464
+    m_Localized: "Tenho fome e sede, a \xE1gua est\xE1 acabando, e tudo na mata parece
+      venenoso. \r\nN\xE3o vejo animais h\xE1 dias; talvez o \"Corpo de Menino\",
+      um menino com os p\xE9s invertidos e cabelos de fogo, esteja protegendo a floresta.
+      Mas que valor teria essa mata para ser protegida? O ouro est\xE1 nas montanhas,
+      aqui s\xF3 h\xE1 ca\xE7a e cogumelos. Ontem comi os vermelhos por engano e 
+      tive pesadelos estranhos, como ser um encanador gigante lutando contra quel\xF4nios
+      por moedas de  ouro. Talvez isso tamb\xE9m seja obra de alguma entidade misteriosa.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6458693980708864
+    m_Localized: Pressione (X)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6737593633792000
+    m_Localized: "Sob ordens de seu rei, um grupo de colonos embarcou em caravelas
+      em busca de terras para coloniza\xE7\xE3o. Durante a explora\xE7\xE3o enfrentaram
+      tempestades, mas isso n\xE3o abalou os colonos corajosos e destemidos. Os colonos
+      avistaram uma certa \u201Cilha\u201D e imediatamente direcionaram as suas caravelas
+      para a dire\xE7\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6737595303124992
+    m_Localized: "Quando estavam pr\xF3ximos de seu objetivo, tiveram que lutar contra
+      misteriosos animais marinhos perigosos que estavam protegendo a costa da ilha.
+      Ap\xF3s derrotarem os animais marinhos, eles se aproximam da ilha que ao ver
+      mais de perto tinha uma floresta enorme. Os colonos chegam na ilha e come\xE7am
+      a prepara\xE7\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6737607013621760
+    m_Localized: "Imediatamente o seu capit\xE3o ordenou que montassem o acampamento
+      e a fogueira e depois que vasculhassem a floresta e voltassem antes de anoitecer.
+      A ilha parecia extremamente silenciosa, por\xE9m enorme. Os Colonos passaram
+      a tarde inteira preparando suas cabanas. Durante a noite O capit\xE3o reparou
+      q tinha alguns colonos desaparecidos, ent\xE3o ele foi procur\xE1-los na floresta.
+      Estava tudo muito escuro."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6737610100629504
+    m_Localized: "E para piorar, ele se perdeu, um de seus companheiros estava com
+      a bussola. A cada passo que dava, ele sentia uma energia tenebrosa nas suas
+      costas. Depois de muito caminhar ele avista algo em chamas, ele tentou se esconder,
+      por\xE9m ele n\xE3o imaginava que j\xE1 tinham avistado sua presen\xE7a, e
+      ent\xE3o ao perceber come\xE7ou a correr pela sua vida enquanto procura seus
+      companheiros. Enquanto estava escondido, o Colono pensava quais materiais ele
+      precisava para fugir da ilha, ap\xF3s ver que as caravelas foram danificadas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6752738359566336
+    m_Localized: Obrigado por jogar!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6772058737270784
+    m_Localized: Pular
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6774020857847808
+    m_Localized: "Depois de ter passado por um pesadelo, no amanhecer o colono avista
+      uma cabana de madeira logo a frente. Talvez essa seja a sua salva\xE7\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6774022736896000
+    m_Localized: "Voc\xEA De Novo???, cad\xEA o que eu te pedi pra consertar a caravela????"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6774722380357632
+    m_Localized: Era isso que eu precisava, demorou, mas consegui.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6774724959854592
+    m_Localized: "Homem com a cabe\xE7a de fogo??? Era o guardi\xE3o da floresta, "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6774727145086976
+    m_Localized: "ele protege cada canto da ilha, \xE9 poss\xEDvel que ele tenha
+      atacado seus companheiros."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6774729154158592
+    m_Localized: Lamento muito pelos seus companheiros, agora vamos logo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6774731003846656
+    m_Localized: "Eu vou consertar a caravela hoje mesmo e voc\xEA vai embora daqui
+      e nunca mais volte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791170288967680
+    m_Localized: mover
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791172310622208
+    m_Localized: Correr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791173652799488
+    m_Localized: interagir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791174701375488
+    m_Localized: Atirar (arma)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791175636705280
+    m_Localized: Pausa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6791176639143936
+    m_Localized: "invent\xE1rio"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

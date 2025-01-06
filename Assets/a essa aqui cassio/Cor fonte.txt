@@ -1,0 +1,9 @@
+Amarelo escuro: FFD42A ou 	R: 255
+				G: 212
+				B: 42
+
+
+Amarelo claro: FFF6D5 ou 	R: 255
+				G: 246
+				B: 213
+
